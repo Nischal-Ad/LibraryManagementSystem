@@ -1,0 +1,50 @@
+.card {
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 5px 10px #888888;
+}
+
+.text {
+  color: white;
+}
+
+.card-columns {
+  padding: 20px;
+}
+
+.card-body {
+  height: 130px;
+}
+
+.card-img-top {
+  height: 300px;
+}
+
+.text {
+  color: rgb(22, 21, 21);
+  border-bottom: 1px solid rgb(224, 220, 220);
+  text-align: center;
+}
+
+.card-text {
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+.box {
+  margin: 20px;
+  align-items: center;
+}
+
+/* .request {
+  height: 250px;
+  width: 250px;
+} */
+
+h4 {
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}

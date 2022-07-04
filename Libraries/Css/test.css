@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(22, 109, 124, 0.644);
+  background-image: url("/lms/Images/bg.png");
+  background-size: cover;
+}
+
+.card {
+  width: 50%;
+}
