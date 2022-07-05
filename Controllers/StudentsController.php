@@ -6,7 +6,7 @@
     //       $this->student=new Student();
   	//    }
 function Index(){
-require_once "Views/User/index.php";
+require_once "Views/User/index1.php";
 }      
 
 function Home(){
